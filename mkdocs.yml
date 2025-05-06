@@ -1,0 +1,38 @@
+site_name: Agro-advisory in Burmese
+site_url: https://sitename.github.io
+theme: 
+  name: material
+  font: 
+    text: Roboto
+    code: Roboto Mono
+  
+  logo: assets/test.jpg
+  favicon: assets/test.jpg
+  features:
+    - navigation.footer
+  palette: 
+    # Dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark Mode
+      primary: green
+      accent: deep purple
+    # Light mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light Mode
+      primary: blue
+      accent: deep orange
+
+extra:
+  social:
+    - icon: fontawesome/brands/youtube
+      link: http://www.youtube.com/@seadagro-advisory3772
+    - icon: fontawesome/brands/viber
+      link: https://invite.viber.com/?g2=AQAJTuxxILWmzUunWHYQWWbu5YmV4HJbiAl7hlX8Lq28Spo0d5msrMcbKP5DL8ux&lang=en
+    - icon: fontawesome/brands/spotify
+      link: https://open.spotify.com/show/2e7Ankl0B9C4RiG4HxPTnY
+
+copyright: Copyright &copy; 2025 SEAD Agro-Advisory

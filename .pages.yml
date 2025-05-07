@@ -1,3 +1,7 @@
 media: docs/assets
 content:
-  - path: sead-agro-advisory/docs/
+  - name: post
+    label: Post
+    path: src/docs
+    type: collection
+    

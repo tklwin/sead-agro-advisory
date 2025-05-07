@@ -2,6 +2,6 @@ media: docs/assets
 content:
   - name: post
     label: Post
-    path: src/docs
+    path: docs
     type: collection
     

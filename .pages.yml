@@ -1,2 +1,3 @@
 media: docs/assets
-content: docs/
+content:
+  - path: sead-agro-advisory/docs/
